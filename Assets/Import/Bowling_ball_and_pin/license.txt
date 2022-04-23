@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bowling ball and pin
+* source:	https://sketchfab.com/3d-models/bowling-ball-and-pin-d696e679e85e48bc987ec6df8116ec21
+* author:	blvck_mvgic (https://sketchfab.com/blvck_mvgic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bowling ball and pin" (https://sketchfab.com/3d-models/bowling-ball-and-pin-d696e679e85e48bc987ec6df8116ec21) by blvck_mvgic (https://sketchfab.com/blvck_mvgic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
